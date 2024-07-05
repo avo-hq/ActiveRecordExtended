@@ -931,3 +931,4 @@ WINDOW number_window AS (PARTITION BY number ORDER BY id DESC)
 ## License
 
 The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+# ActiveRecordExtended
